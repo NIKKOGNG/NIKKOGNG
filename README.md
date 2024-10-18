@@ -1,3 +1,5 @@
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+NIKKOGNG's+Github+Profile..)](https://git.io/typing-svg)
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjlqYzVka2l2c25yd3NwajhoOG1uZmpvaDJ2OTFuaWx2MGZtMXc2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="900"/>
 
 <br/>
